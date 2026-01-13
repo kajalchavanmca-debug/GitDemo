@@ -23,6 +23,12 @@ public class test2 {
 	{
 		System.out.println("I will execute second");
 	}
+	
+	public void prerequiste2()	
+	{
+		System.out.println("I will execute third");
+	}
+
 
 
 }
