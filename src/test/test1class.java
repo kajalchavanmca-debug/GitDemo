@@ -8,8 +8,9 @@ public class test1class {
 
 	@AfterTest
 	public void lastExecution() {
-		System.out.println("i will execute last");
-		
+		System.out.println("i will execute first");
+		System.out.println("i will execute second");
+		System.out.println("i will execute third");
 	}
 	@Test
 	 public void demo() {
