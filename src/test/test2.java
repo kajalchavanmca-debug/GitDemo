@@ -18,5 +18,11 @@ public class test2 {
 	{
 		System.out.println("I will execute first");
 	}
+	
+	public void prerequiste1()	
+	{
+		System.out.println("I will execute second");
+	}
+
 
 }

@@ -26,14 +26,5 @@ public class test1class {
 		System.out.println("I am no 3 from last");
 		System.out.println("I am no 4 from last");
 	}
-	
-	
-	
-	@Test
-	public void secondTest()
-	{
-		System.out.println("Bye");
-	}
-	
 
 }
