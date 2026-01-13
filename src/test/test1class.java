@@ -22,6 +22,9 @@ public class test1class {
 	public void afsuit()
 	{
 		System.out.println("I am no 1 from last");
+		System.out.println("I am no 2 from last");
+		System.out.println("I am no 3 from last");
+		System.out.println("I am no 4 from last");
 	}
 	
 	

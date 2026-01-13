@@ -11,6 +11,7 @@ public class test2 {
 		// TODO Auto-generated method stub
 
 		System.out.println("good");
+		System.out.println("very good");
 	}
 	@BeforeTest
 	public void prerequiste()	
